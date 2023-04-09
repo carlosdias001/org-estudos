@@ -147,6 +147,9 @@ aside {
     border: ridge;
     border-radius: 10px;
 }
+aside > p {
+    padding: 10px 0px 0px 0px;
+}
 footer {
     background-color: var(--cor3);
     color: var(--cormar);
